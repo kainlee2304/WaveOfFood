@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Waves Of Food</string>
+    <string name="choose_location">Chọn Vị Trí Của Bạn</string>
+    <string name="location_prompt">Để cung cấp cho bạn trải nghiệm ẩm thực tốt nhất, chúng tôi cần sự cho phép của bạn để truy cập vào vị trí của thiết bị. Bằng cách bật dịch vụ vị trí, chúng tôi có thể cung cấp các gợi ý nhà hàng cá nhân hóa, ước tính thời gian giao hàng chính xác và đảm bảo trải nghiệm giao đồ ăn nhanh và tương ngót nhất đến quý khách hàng.Chúng tôi xin chân thành cảm ơn.</string>
+    <string name="choose_location_hint">Chọn Vị Trí</string>
+    <string name="food_name">Tên Món Ăn</string>
+    <string name="short_description">Mô tả ngắn gọn</string>
+    <string name="ingredients">Thành phần</string>
+    <string name="add_to_cart">Thêm vào giỏ hàng</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="ingredient_list">Mục1 \nMục 2</string>
+    <string name="app_subtitle">Waves Of Food</string>
+    <string name="login_prompt">Đăng Nhập Tài Khoản Của Bạn</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật Khẩu</string>
+    <string name="or_text">Hoặc</string>
+    <string name="continue_with_text">Tiếp Tục Với</string>
+    <string name="google_text">Google</string>
+    <string name="facebook_text">Facebook</string>
+    <string name="login_button_text">Đăng Nhập</string>
+    <string name="dont_have_account_text">Tạo Tài Khoản Mới</string>
+    <string name="Explore_Your_Favorite_Food">Trang chủ</string>
+    <string name="Edit">Địa chỉ nhận hàng</string>
+    <string name="Name">Họ Và Tên</string>
+    <string name="Address">Địa chỉ</string>
+    <string name="Phone">Số điện thoại</string>
+    <string name="Payment_Method">Phương thức thanh toán</string>
+    <string name="Total_Amount">Tổng thanh toán</string>
+    <string name="Place_My_Order">Đặt hàng</string>
+    <string name="Recent_Buy_Items">Đơn mua</string>
+    <string name="DelieverFavoriteFood">Deliever Favorite Food</string>
+    <string name="SignUpHere">Đăng Ký</string>
+    <string name="Or">Hoặc</string>
+    <string name="Sign_Up_With">Tiếp Tục Với</string>
+    <string name="CreateAccount">Tạo Tài Khoản Mới</string>
+    <string name="AlreadyHaveAnAccount">Tôi Đã Có Tài Khoản!</string>
+    <string name="Name_hint_dk">Họ Và Tên</string>
+    <string name="email_hint_dk">Email Hoặc Số Điện Thoại</string>
+    <string name="Password_dk">Mật Khẩu</string>
+    <string name="slogan">An Tâm Mua Sắm Mỗi Ngày</string>
+    <string name="nextButton">Kế Tiếp</string>
+    <string name="congra">Cảm Ơn Bạn Đã Đặt Hàng</string>
+    <string name="gohome">Về Trang Chủ</string>
+    <string name="recentbuy">Mua Gần Đây</string>
+    <string name="Popular">Gợi ý</string>
+    <string name="ViewMenu">Xem Thêm</string>
+    <string name="Menu">Sản Phẩm</string>
+    <string name="notifications">Thông Báo</string>
+    <string name="edit_p">Cập Nhật</string>
+    <string name="Save">Lưu</string>
+    <string name="Search">Tìm Kiếm Sản Phẩm</string>
+    <string name="searchView">Bạn Muốn Mua Gì?</string>
+    <string name="Cart">Giỏ Hàng</string>
+    <string name="Proceed">Mua Hàng</string>
+
+
+
+
+
+
+</resources>

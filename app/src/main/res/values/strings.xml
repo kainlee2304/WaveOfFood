@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Waves Of Food</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="default_web_client_id"></string>
+    <string name="location_prompt" >To provide you with the best dining experience, we need your permission to access your device
+            location. By enabling location services, we can offer personalized restaurant recommendations, accurate delivery estimates, and ensure a seamless food delivery experience.</string>
+    <string name="choose_location_hint">Choose Location</string>
+    <string name="food_name">FoodName</string>
+    <string name="short_description">Short description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="english">English</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="ingredient_list">Item1 \nItem 2</string>
+    <string name="app_subtitle">Deliver Favorite Food</string>
+    <string name="login_prompt">Login To Your Account</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="or_text">Or</string>
+    <string name="continue_with_text">Continue With</string>
+    <string name="google_text">Google</string>
+    <string name="facebook_text">Facebook</string>
+    <string name="login_button_text">Login</string>
+    <string name="dont_have_account_text">Don’t Have Account?</string>
+    <string name="Explore_Your_Favorite_Food">Explore Your Favorite Food</string>
+    <string name="Edit">Edit</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Phone">Phone</string>
+    <string name="Payment_Method">Payment Method</string>
+    <string name="Total_Amount">Total Amount</string>
+    <string name="Place_My_Order">Place My Order</string>
+    <string name="Recent_Buy_Items">Recent Buy Items</string>
+    <string name="DelieverFavoriteFood">Deliever Favorite Food</string>
+    <string name="SignUpHere">Sign Up Here</string>
+    <string name="Or">Or</string>
+    <string name="Sign_Up_With">Sign Up With</string>
+    <string name="CreateAccount">Create Account</string>
+    <string name="AlreadyHaveAnAccount">Already Have An Account?</string>
+    <string name="Name_hint_dk">Name</string>
+    <string name="email_hint_dk">Email or Phone Number</string>
+    <string name="Password_dk">Password</string>
+    <string name="slogan">Enjoy Restaurant Quality Meals \n at Home</string>
+    <string name="nextButton">Next</string>
+    <string name="congra">Congrats\n Your Order Place</string>
+    <string name="gohome">Go Home</string>
+    <string name="recentbuy">Recent Buy</string>
+    <string name="Popular">Popular</string>
+    <string name="ViewMenu">View Menu</string>
+    <string name="Menu">Menu</string>
+    <string name="notifications">Notifications</string>
+    <string name="edit_p">Edit</string>
+    <string name="Save">Save</string>
+    <string name="Search">Search</string>
+    <string name="searchView">What do you want to order?</string>
+    <string name="Cart">Cart</string>
+    <string name="Proceed">Proceed</string>
+
+
+
+
+
+</resources>
